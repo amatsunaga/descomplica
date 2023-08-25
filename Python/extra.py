@@ -1,0 +1,3 @@
+# next()
+# hash()
+# open()
