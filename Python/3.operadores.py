@@ -7,7 +7,7 @@
 ## cerquilha (nome do hashtag)
 
 # Lógicos
-# ! and or
+# not and or
 # ! && ||
 
 # potência **

@@ -1,3 +1,4 @@
+# IF/ ELSE/ ELIF
 # idade = int(input("Digite sua idade: "))
 
 # if idade > 18:
@@ -8,9 +9,11 @@
 #     print("É MENOR de idade")
 
 
+# TERNÁRIO
 # print("É MAIOR") if idade >=18 else print("É MENOR")
 
 
+# MATCH
 # a = "Marcio"
 # match a:
 #     case "Antonio":

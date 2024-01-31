@@ -2,7 +2,7 @@
 # a = 1
 
 # while a < 10:
-#     print("Teste")
+#     print("Teste", end="")
 #     a += 1
 
 # FOR

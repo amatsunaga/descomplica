@@ -1,6 +1,8 @@
 # LISTA
 # lista = [1, 2, 3]
 # lista.append(4)
+# lista.remove(2)
+# lista.insert(1, 6)
 # print(lista)
 
 # TUPLA - imutável!
@@ -64,3 +66,18 @@ print(temDescomplica())
 #         return nomes
 
 # print(temDescomplica())
+
+# Eficiência do código
+# a = 10
+# b = 20
+# c = 30
+# d = 40
+
+# e = a + b + c + d
+
+# Em caso de multiprocessamento (distribuído ou em paralelo), melhor:
+# e = a + b
+# f = c + d
+# g = e + f
+
+# print(g)
